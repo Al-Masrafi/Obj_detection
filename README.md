@@ -74,7 +74,7 @@ Follow these steps to set up the project environment.
 
 **2. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/flame-detection-yolov8.git
+git clone https://github.com/Al-Masrafi/Obj_detection.git
 cd flame-detection-yolov8
 ```
 
@@ -91,17 +91,12 @@ source venv/bin/activate
 ```
 
 **4. Install Dependencies**
-Create a `requirements.txt` file in your project's root directory with the following content:
 
-**`requirements.txt`**
-```
-ultralytics
-opencv-python
-```
 
 Now, install these packages using pip:
 ```bash
-pip install -r requirements.txt
+pip install ultralytics torch opencv-python
+
 ```
 
 **5. Place Your Model**
