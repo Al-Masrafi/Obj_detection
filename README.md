@@ -1,4 +1,3 @@
-
 🔥 Real-Time Flame Detection using YOLOv8
 
 Features:
