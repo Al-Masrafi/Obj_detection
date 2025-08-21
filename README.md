@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-Of course! A good `README.md` is essential for any project. It serves as the front page, explaining what your project does, how to set it up, and showing off its capabilities.
-=======
-# Flame_detection
-
-Here is a comprehensive `README.md` file tailored to your flame detection project. Just copy and paste this content into a new file named `README.md` in the root of your Git repository.
-
----
-
-<<<<<<< HEAD
+🔥 Flame Detection using YOLOv8
 # Real-Time Flame Detection using YOLOv8
 =======
 Features:
@@ -47,10 +38,11 @@ This repository contains Python scripts that leverage the Ultralytics YOLOv8 fra
 
 Here are some examples of the model's performance on different images.
 
+
 | Original Image | Detected Flame |
 | :---: | :---: |
-| <img src="https://i.imgur.com/8Q73v2C.jpg" width="300"> | <img src="https://i.imgur.com/5V359V1.jpg" width="300"> |
-| <img src="https://i.imgur.com/zWz2B3c.jpg" width="300"> | <img src="https://i.imgur.com/76Uf35j.jpg" width="300"> |
+| <img src="https://github.com/user-attachments/assets/ca6678f7-1e25-45c6-b370-79d315a1c60b" width="300"> | <img src="https://github.com/user-attachments/assets/cdcf130a-ad64-4ff3-9a36-a829b1d0cfaf" width="300"> |
+| <img src="https://github.com/user-attachments/assets/bc40ea7c-db1e-4b6e-ad6b-13b9d626084f" width="300"> | <img src="https://github.com/user-attachments/assets/7ca1806a-3811-44af-803e-cd0afc31822d" width="300"> |
 
 The model successfully identifies the flame regions with high confidence, drawing bounding boxes labeled "Api" (which you can change based on your class name).
 
