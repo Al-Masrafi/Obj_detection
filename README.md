@@ -1,10 +1,20 @@
+<<<<<<< HEAD
 Of course! A good `README.md` is essential for any project. It serves as the front page, explaining what your project does, how to set it up, and showing off its capabilities.
+=======
+# Flame_detection
 
 Here is a comprehensive `README.md` file tailored to your flame detection project. Just copy and paste this content into a new file named `README.md` in the root of your Git repository.
 
 ---
 
+<<<<<<< HEAD
 # Real-Time Flame Detection using YOLOv8
+=======
+Features:
+1. Detect flames in images, videos, or webcam streams
+2. Saves output images/videos with bounding boxes
+3. Exports detection results (.txt) with class, confidence, and coordinates
+4. Option to process large videos efficiently using stream=True
 
 This project provides a complete solution for detecting flames in images and videos using a custom-trained YOLOv8 model. The system is designed for applications in fire safety, surveillance, and early-warning systems.
 
@@ -20,6 +30,7 @@ This project provides a complete solution for detecting flames in images and vid
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
+<<<<<<< HEAD
 ## Project Overview
 
 This repository contains Python scripts that leverage the Ultralytics YOLOv8 framework to perform object detection. A pre-trained model (`best.pt`) is used to identify and locate flames within a given image or video source. The scripts automatically save the annotated results, including output images/videos with bounding boxes and text files with detection coordinates.
@@ -138,5 +149,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 - This project is built upon the powerful [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) library.
 - Thanks to the creators of the datasets used for training the model.
-
----
